@@ -6,7 +6,7 @@
 
 ## Software Developer
 
-I am a Software Developer at [Fulltimeforce](https://fulltimeforce.com) - [Everything Money](https://www.youtube.com/c/EverythingMoney) and a [Flutter](https://flutter.dev/) mentor.
+I am a Software Developer at [Very Good Ventures 🦄](https://verygood.ventures/) and a [Flutter 💙](https://flutter.dev/) mentor.
 
 I love programming 👨🏻‍💻, playing guitar 🎸, and teaching 👨🏻‍🏫.
 
