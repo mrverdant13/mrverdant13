@@ -28,7 +28,3 @@ I love programming 👨🏻‍💻, playing guitar 🎸, and teaching 👨🏻�
 ![Verde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrverdant13&show_icons=true&count_private=true)
 
 ![Verde's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrverdant13&layout=compact)
-
-## My activity this week
-
-![Verde's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrverdant13&layout=compact)
