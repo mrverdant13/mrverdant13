@@ -1,6 +1,5 @@
 # Karlo Verde 💙 🇵🇪
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mrverdant13.mrverdant13)
 [![Twitter: mrverdant13](https://img.shields.io/twitter/follow/mrverdant13?style=social)](https://twitter.com/mrverdant13)
 [![LinkedIn: Karlo Verde](https://img.shields.io/badge/mrverdant13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mrverdant13/)](https://www.linkedin.com/in/mrverdant13)
 [![GitHub mrverdant13](https://img.shields.io/github/followers/mrverdant13?label=follow&style=social)](https://github.com/mrverdant13)
