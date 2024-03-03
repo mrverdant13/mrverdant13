@@ -15,6 +15,9 @@ I love programming 👨🏻‍💻, playing guitar 🎸, and teaching 👨🏻�
 - [Coverde](https://pub.dev/packages/coverde):\
   A CLI for basic coverage trace files (`lcov.info`) manipulation.\
   Validate minimum coverage, filter trace files data by tested file paths and generate HTML coverage reports.
+- [Altoke App](https://github.com/mrverdant13/altoke_app):\
+  An opinionated Flutter app template.\
+  Create a new Flutter project with a pre-set architecture and implemented common features.
 
 ## My latest presentations
 
